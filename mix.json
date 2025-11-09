@@ -243,10 +243,9 @@
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/NetflixMirrorProvider/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 44243,
         "status": 1,
         "authors": [
-            "megix"
+            "ariev"
         ],
         "tvTypes": [
             "Movie",
