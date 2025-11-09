@@ -243,7 +243,8 @@
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/NetflixMirrorProvider/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "status": 1,
+        "fileSize": 46117,
+		"status": 1,
         "authors": [
             "ariev"
         ],
@@ -254,10 +255,10 @@
             "Anime"
         ],
         "version": 31,
-        "internalName": "NetflixMirrorProvider",
+        "internalName": "NetflixAriev",
         "description": "Netflix, PrimeVideo, JioHotstar(Hotstar, Disney, Paramount, HBO, Peacock) Content in Multiple Languages",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/NetflixMirrorProvider.cs3",
-        "name": "NetflixMirrorProvider"
+        "name": "NetflixAriev"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=noxx.to&sz=%size%",
