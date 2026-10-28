@@ -160,17 +160,17 @@
         "apiVersion": 1
     },
     {
-        "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/Idlix.cs3",
+        "url": "https://raw.githubusercontent.com/ariv7xx/cs/builds/Idlix.cs3",
         "status": 1,
-        "version": 29,
+        "version": 30,
         "name": "Idlix",
         "internalName": "Idlix",
         "authors": [
-            "TeKuma25"
+            "ariev7xx"
         ],
         "description": "Nonton streaming film dan serial TV subtitle Indonesia terlengkap dari Idlix.",
         "fileSize": 74990,
-        "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
+        "repositoryUrl": "https://github.com/ariev7xx/cs",
         "language": "id",
         "tvTypes": [
             "TvSeries",
