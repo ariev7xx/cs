@@ -22,7 +22,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://tv9.nontondrama.my&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/ExtremeBoyGG/nonton-indo",
+        "repositoryUrl": "https://github.com/ariev7xx/cs",
         "fileSize": 37662,
         "status": 1,
         "language": "id",
@@ -33,9 +33,9 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 8,
+        "version": 9,
         "internalName": "LK21",
-        "url": "https://raw.githubusercontent.com/ExtremeBoyGG/nonton-indo/builds/LK21.cs3",
+        "url": "https://raw.githubusercontent.com/ariev7xx/cs/builds/LK21.cs3",
         "name": "LK21"
     },
     {
