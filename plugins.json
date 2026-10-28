@@ -81,7 +81,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://new1.pusatfilm21info.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/ExtremeBoyGG/nonton-indo",
+        "repositoryUrl": "https://github.com/ariev7xx/cs",
         "fileSize": 26553,
         "status": 1,
         "language": "id",
@@ -92,9 +92,9 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "PusatFilm",
-        "url": "https://raw.githubusercontent.com/ExtremeBoyGG/nonton-indo/builds/PusatFilm.cs3",
+        "url": "https://raw.githubusercontent.com/ariev7xx/cs/builds/PusatFilm.cs3",
         "name": "PusatFilm"
     },
     {
