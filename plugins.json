@@ -27,7 +27,7 @@
         "status": 1,
         "language": "id",
         "authors": [
-            "ExtremeBoy"
+            "ariev7xx"
         ],
         "tvTypes": [
             "TvSeries",
@@ -86,7 +86,7 @@
         "status": 1,
         "language": "id",
         "authors": [
-            "ExtremeBoy"
+            "ariev7xx"
         ],
         "tvTypes": [
             "Movie",
@@ -281,5 +281,24 @@
         "description": "📺 Streaming Movie and TV Series",
         "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Filmkita.cs3",
         "name": "Filmkita"
+    },
+     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://sweetiepieparenting.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ExtremeBoyGG/nonton-indo",
+        "fileSize": 33851,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ExtremeBoy"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 3,
+        "internalName": "Idlix2",
+        "url": "https://raw.githubusercontent.com/ExtremeBoyGG/nonton-indo/builds/Idlix.cs3",
+        "name": "Idlix2"
     }
 ]
