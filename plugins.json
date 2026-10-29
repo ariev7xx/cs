@@ -118,17 +118,17 @@
         "name": "Sokuja"
     },
     {
-        "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/Animasu.cs3",
+        "url": "https://raw.githubusercontent.com/ariev7xx/cs/builds/Animasu.cs3",
         "status": 1,
         "version": 18,
         "name": "Animasu",
         "internalName": "Animasu",
         "authors": [
-            "TeKuma25"
+            "ariev7xx"
         ],
         "description": "Nonton streaming anime subtitle Indonesia terlengkap dan terupdate dari Animasu.",
         "fileSize": 36768,
-        "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
+        "repositoryUrl": "https://github.com/ariev7xx/cs",
         "language": "id",
         "tvTypes": [
             "AnimeMovie",
