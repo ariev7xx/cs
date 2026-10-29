@@ -451,6 +451,27 @@
         "name": "Rebahin"
     },
     {
+        "fileHash": "sha256-7c339c1f4b1400022429f11c5cbe8d8bd68b98541760b38d6f4d10213577dc88",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ariev7xx/cs",
+        "fileSize": 24039,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ariev7xx"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "Savefilm",
+        "description": "Savefilm - Streaming Movie and TV Series",
+        "url": "https://raw.githubusercontent.com/ariev7xx/cs/builds/Savefilm.cs3",
+        "name": "Savefilm"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=http://167.71.237.49&sz=%size%",
         "fileHash": "sha256-35de2780258d4f502f20f3ab15852964f63bb35a3b1dcb5d553f8505acfbc188",
         "apiVersion": 1,
