@@ -2,12 +2,12 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://kuramanime.ink&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/ExtremeBoyGG/nonton-indo",
+        "repositoryUrl": "https://github.com/ariev7xx/cs",
         "fileSize": 25509,
         "status": 1,
         "language": "id",
         "authors": [
-            "ExtremeBoy"
+            "ariev7xx"
         ],
         "tvTypes": [
             "AnimeMovie",
@@ -16,7 +16,7 @@
         ],
         "version": 5,
         "internalName": "Kuramanime",
-        "url": "https://raw.githubusercontent.com/ExtremeBoyGG/nonton-indo/builds/Kuramanime.cs3",
+        "url": "https://raw.githubusercontent.com/ariev7xx/cs/builds/Kuramanime.cs3",
         "name": "Kuramanime"
     },
     {
@@ -41,12 +41,12 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://server-1.layar.asia&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/ExtremeBoyGG/nonton-indo",
+        "repositoryUrl": "https://github.com/ariev7xx/cs",
         "fileSize": 40163,
         "status": 1,
         "language": "id",
         "authors": [
-            "ExtremeBoy"
+            "ariev7xx"
         ],
         "tvTypes": [
             "Movie",
@@ -55,18 +55,18 @@
         ],
         "version": 2,
         "internalName": "LayarAsia",
-        "url": "https://raw.githubusercontent.com/ExtremeBoyGG/nonton-indo/builds/LayarAsia.cs3",
+        "url": "https://raw.githubusercontent.com/ariev7xx/cs/builds/LayarAsia.cs3",
         "name": "LayarAsia"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://themoviebox.org&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/ExtremeBoyGG/nonton-indo",
+        "repositoryUrl": "https://github.com/ariev7xx/cs",
         "fileSize": 37320,
         "status": 1,
         "language": "id",
         "authors": [
-            "ExtremeBoy"
+            "ariev7xx"
         ],
         "tvTypes": [
             "Anime",
@@ -75,7 +75,7 @@
         ],
         "version": 4,
         "internalName": "MovieBox",
-        "url": "https://raw.githubusercontent.com/ExtremeBoyGG/nonton-indo/builds/MovieBox.cs3",
+        "url": "https://raw.githubusercontent.com/ariev7xx/cs/builds/MovieBox.cs3",
         "name": "MovieBox"
     },
     {
@@ -100,12 +100,12 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://x6.sokuja.uk&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/ExtremeBoyGG/nonton-indo",
+        "repositoryUrl": "https://github.com/ariev7xx/cs",
         "fileSize": 25242,
         "status": 1,
         "language": "id",
         "authors": [
-            "ExtremeBoy"
+            "ariev7xx"
         ],
         "tvTypes": [
             "AnimeMovie",
@@ -114,7 +114,7 @@
         ],
         "version": 4,
         "internalName": "Sokuja",
-        "url": "https://raw.githubusercontent.com/ExtremeBoyGG/nonton-indo/builds/Sokuja.cs3",
+        "url": "https://raw.githubusercontent.com/ariev7xx/cs/builds/Sokuja.cs3",
         "name": "Sokuja"
     },
     {
