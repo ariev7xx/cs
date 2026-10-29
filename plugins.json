@@ -265,12 +265,12 @@
     {
         "iconUrl": "https://i.ibb.co.com/Jjzsxm9F/cropped-lk21-1.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+        "repositoryUrl": "https://github.com/ariev7xx/cs",
         "fileSize": 24041,
         "status": 1,
         "language": "id",
         "authors": [
-            "Asm0d3usX"
+            "ariev7xx"
         ],
         "tvTypes": [
             "Movie",
@@ -279,7 +279,7 @@
         "version": 1,
         "internalName": "Filmkita",
         "description": "📺 Streaming Movie and TV Series",
-        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Filmkita.cs3",
+        "url": "https://raw.githubusercontent.com/aiev7xx/cs/builds/Filmkita.cs3",
         "name": "Filmkita"
     },
         {
