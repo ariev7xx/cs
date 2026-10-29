@@ -1,0 +1,8 @@
+{
+    "name": "Ariev7xx",
+    "description": "Repository edit by ariev",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/ariev7xx/cs/main/plugins.json"
+    ]
+}
