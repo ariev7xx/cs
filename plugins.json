@@ -43,10 +43,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://sweetiepieparenting.com&sz=%size%",
-        "fileHash": "sha256-8e6f6499bfe35a0eae67f3ca72ba42ee70ed64a77bfaf73bb04adaf21d762333",
+        "fileHash": "sha256-f310f31a5b328d32813f267b8a4da9e4604fbb88e20279d5a4318646249ae6ef",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ariev7xx/cs",
-        "fileSize": 37573,
+        "fileSize": 37560,
         "status": 1,
         "language": "id",
         "authors": [
