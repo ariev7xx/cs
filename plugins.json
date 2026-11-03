@@ -227,10 +227,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://x6.sokuja.uk&sz=%size%",
-        "fileHash": "sha256-61b025aed7446405d8dd06edfbc88a3b949f93f095735f2b7b4c03df878af813",
+        "fileHash": "sha256-bccef512fc99928c348fc2b983ccc37718d68aa86684d3e669f91b99d185ef23",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ariev7xx/cs",
-        "fileSize": 25242,
+        "fileSize": 25248,
         "status": 1,
         "language": "id",
         "authors": [
