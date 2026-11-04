@@ -165,10 +165,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://nimegami.id&sz=%size%",
-        "fileHash": "sha256-26ab8c5cb5ed97d8565ff504d5244a163294891284d9d4f2f444f4e1b99a2d04",
+        "fileHash": "sha256-ebd088db6d3a0c3cdccc631e750a011d0d8f70f31f823f812b571b3ebc20f94c",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ariev7xx/cs",
-        "fileSize": 23306,
+        "fileSize": 23311,
         "status": 1,
         "language": "id",
         "authors": [
