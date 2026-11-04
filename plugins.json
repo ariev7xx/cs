@@ -125,10 +125,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://themoviebox.org&sz=%size%",
-        "fileHash": "sha256-f2ab68992b3f48e4d5df0a5994eedb868eddcccfd14adb2186a89112d96b5636",
+        "fileHash": "sha256-a3fa9f799c50030954649441636b54d1246af10924cc0aff62739caac8f7ebdc",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/ariev7xx/cs",
-        "fileSize": 38249,
+        "fileSize": 40739,
         "status": 1,
         "language": "id",
         "authors": [
